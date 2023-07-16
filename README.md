@@ -22,4 +22,4 @@ Browser (C++)
 
 Operating System (C++)
 
-As you can see these are dream projects that I am willing to do with some other C/C++ devs.
+**As you can see these are dream projects that I am willing to do with some other C/C++ devs.**
