@@ -1,4 +1,4 @@
-# Hi, and welcome to my profile! I am a developer who mainly writes C/C++ but does some other languages on the side.
+# Hi, and welcome to my profile! I am a developer who mainly writes C/C++ but does some other languages on the side
 
 ## Skills
 
@@ -15,3 +15,11 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua
 
 I like to built complex stuff and big projects so I hope my code will actually be used by people, my favourite thing to do is write software I use from day-to-day and write that in C++/Rust (Aka tauri for Rust)
+
+## Projects for in the future
+
+Browser (C++)
+
+Operating System (C++)
+
+As you can see these are dream projects that I am willing to do with some other C/C++ devs.
