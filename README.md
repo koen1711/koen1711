@@ -1,4 +1,4 @@
-# Hi, and welcome to my profile!
+# Hi, and welcome to my profile! I am a developer who mainly writes C/C++ but does some other languages on the side.
 
 ## Skills
 
